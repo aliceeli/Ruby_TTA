@@ -11,3 +11,8 @@ Week Two
  > HLT1
  > HLT2
  > stringmanipulation
+ > fizzbuzz
+ 
+ Week Three
+ > HLTwk3
+ > examgradeCLASS
